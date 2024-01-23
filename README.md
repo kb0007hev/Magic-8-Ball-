@@ -1,4 +1,4 @@
-#  Magic 8 Ball
+#  Magic 8 Ball / Grettings / TipCalculator
 
 ### MOTIVATION
 
